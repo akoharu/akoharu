@@ -9,7 +9,7 @@
 
 <!--
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akoharu&theme=radical&layout=compact) -->
-![Akoharu's github stats](https://github-readme-stats.vercel.app/api?username=akoharu&count_private=true&hide=contribs,prs&show_icons=true&theme=radical&layout=compact)
+<!-- ![Akoharu's github stats](https://github-readme-stats.vercel.app/api?username=akoharu&count_private=true&hide=contribs,prs&show_icons=true&theme=radical&layout=compact) -->
 ![Akoharu's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=akoharu&show_icons=true&theme=radical&layout=compact)
 
 <!--
