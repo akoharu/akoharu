@@ -13,7 +13,7 @@
 
 I build software for real businesses, and I like knowing how every part of it works. I lead the engineering team behind **SortMe**, a personal-finance product, at [Atas.AI](https://atas.ai/). I also run **[Eyzet](https://eyzet.io/)**, my own SaaS that helps internet providers manage their networks and customers.
 
-AI is part of how I work now. It helps me ship faster. Understanding the problem, questioning the solution, and owning what ships is still my job.
+Before AI could write code for me, I spent years building things by hand: reading docs and source code, testing ideas, and researching each problem until I understood it. That foundation is still how I work. Now AI helps me move much faster, but I still choose what to build, question the solution, and own what ships.
 
 ### Right now
 
