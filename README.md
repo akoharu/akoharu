@@ -11,13 +11,13 @@
   <a href="mailto:hallo@kohar.space"><img alt="Email" src="https://img.shields.io/badge/hallo@kohar.space-24272c?style=flat-square&logo=maildotru&logoColor=white"></a>
 </p>
 
-I build software for real businesses, and I like knowing how every part of it works. I lead the engineering team behind **SortMe**, a personal-finance product, at [Atas.AI](https://atas.ai/). I also run **[Eyzet](https://eyzet.io/)**, my own SaaS that helps internet providers manage their networks and customers.
+I build software for real businesses, and I like knowing how every part of it works. Today I lead an engineering team on a consumer product, and I run **[Eyzet](https://eyzet.io/)**, my own SaaS that helps internet providers manage their networks and customers.
 
 Before AI could write code for me, I spent years building things by hand: reading docs and source code, testing ideas, and researching each problem until I understood it. That foundation is still how I work. Now AI helps me move much faster, but I still choose what to build, question the solution, and own what ships.
 
 ### Right now
 
-- **Leading** the SortMe engineering team at Atas.AI: product code, automation, and CI.
+- **Leading** an engineering team: product code, automation, and CI.
 - **Building** [Eyzet](https://eyzet.io/), an ISP-management SaaS with MikroTik and FreeRADIUS integration.
 - **Writing** a developer diary at [kohar.space](https://kohar.space/blog/) about lessons from real projects.
 - **Exploring** AI agents in everyday dev work, for example [paseo-task-viewer](https://github.com/akoharu/paseo-task-viewer).

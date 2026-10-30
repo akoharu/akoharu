@@ -41,7 +41,7 @@
     <circle cx="910" cy="84" r="5" fill="#e8c46a"/>
     <circle cx="928" cy="84" r="5" fill="#8fbf8a"/>
     <text class="mono" x="894" y="124" fill="#8a9196">~ $ <tspan fill="#f3f1e9">now</tspan></text>
-    <text class="line l1" x="894" y="154"><tspan fill="#ee8072">›</tspan> <tspan fill="#8a9196">leading  </tspan><tspan fill="#f3f1e9">SortMe engineering</tspan></text>
+    <text class="line l1" x="894" y="154"><tspan fill="#ee8072">›</tspan> <tspan fill="#8a9196">leading  </tspan><tspan fill="#f3f1e9">a product team</tspan></text>
     <text class="line l2" x="894" y="180"><tspan fill="#ee8072">›</tspan> <tspan fill="#8a9196">building </tspan><tspan fill="#f3f1e9">Eyzet</tspan></text>
     <text class="line l3" x="894" y="206"><tspan fill="#ee8072">›</tspan> <tspan fill="#8a9196">writing  </tspan><tspan fill="#f3f1e9">kohar.space</tspan></text>
     <text class="prompt" x="894" y="232" fill="#8a9196">~ $</text>
