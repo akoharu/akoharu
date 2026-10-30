@@ -22,26 +22,38 @@ AI is part of how I work now. It helps me ship faster. Understanding the problem
 - **Writing** a developer diary at [kohar.space](https://kohar.space/blog/) about lessons from real projects.
 - **Exploring** AI agents in everyday dev work, for example [paseo-task-viewer](https://github.com/akoharu/paseo-task-viewer).
 
-### Selected work
+### Products I've built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://kohar.space/projects/sortme/">SortMe</a></b><br>
-      <sub>Engineering team lead · Atas.AI</sub><br>
-      Personal-finance product. I lead the team and work across the code, automation, and continuous integration.
+      <b><a href="https://kohar.space/projects/eyzet/">Eyzet</a></b><br>
+      <sub>Founder & full-stack developer · SaaS</sub><br>
+      ISP-management platform. Billing, payments, a customer portal, network maps, and an internal AI assistant in one system.
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://kohar.space/projects/eyzet/">Eyzet</a></b><br>
-      <sub>Founder & full-stack developer</sub><br>
-      SaaS that helps internet providers run their daily operations, from customers to network devices.
+      <b><a href="https://kohar.space/projects/autopit/">Autopit</a></b><br>
+      <sub>Founder & developer · SaaS</sub><br>
+      Workshop-management app that keeps the customer, the car, and the service job together.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://kohar.space/projects/sibudak/">SIBUDAK</a></b><br>
-      <sub>Public health · Bogor Regency</sub><br>
-      Immunization-records application for the Bogor Regency Public Health Office.
+      <b><a href="https://kohar.space/projects/indonesiaconnect/">IndonesiaConnect</a></b><br>
+      <sub>ISP operations · Mobile</sub><br>
+      Customer and network data on a phone, with MikroTik and ZTE OLT integration. The starting point for Eyzet.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://kohar.space/projects/attendance-management/">Attendance Management</a></b><br>
+      <sub>Biometric attendance</sub><br>
+      Connects to fingerprint machines and turns their records into a monthly report an admin can read.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://kohar.space/projects/nms/">Network Monitoring</a></b><br>
+      <sub>Network visibility · School</sub><br>
+      Records website visits, shows the most visited sites, and lets an admin block inappropriate websites.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://kohar.space/projects/automatic-door-access/">Automatic Door Access</a></b><br>
