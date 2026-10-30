@@ -1,7 +1,7 @@
 <a href="https://kohar.space">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img alt="Asep Koharudin, full-stack engineer, engineering team lead, and founder of Eyzet" src="assets/header-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Asep Koharudin, full-stack engineer, engineering team lead, and founder of Eyzet" src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
